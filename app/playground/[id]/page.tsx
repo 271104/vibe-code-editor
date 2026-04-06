@@ -37,7 +37,6 @@ import WebContainerPreview from "@/modules/webcontainers/components/webcontainer
 import { useWebContainer } from "@/modules/webcontainers/hooks/useWebContainer";
 import {
   AlertCircle,
-  Bot,
   FileText,
   FolderOpen,
   Save,
@@ -48,7 +47,6 @@ import { useParams } from "next/navigation";
 import React, {
   useCallback,
   useEffect,
-  useReducer,
   useRef,
   useState,
 } from "react";
@@ -89,7 +87,7 @@ const MainPlaygroundPage = () => {
     error: containerError,
     instance,
     writeFileSync,
-    // @ts-ignore
+    // @ts-expect-error - WebContainer type mismatch
   } = useWebContainer({ templateData });
 
   const lastSyncedContent = useRef<Map<string, string>>(new Map());
@@ -201,9 +199,9 @@ const MainPlaygroundPage = () => {
           JSON.stringify(latestTemplateData)
         );
 
-        // @ts-ignore
-          const updateFileContent = (items: any[]) =>
-            // @ts-ignore
+        // @ts-expect-error - Dynamic template data structure
+          const updateFileContent = (items: unknown[]) =>
+            // @ts-expect-error - Dynamic item structure
           items.map((item) => {
             if ("folderName" in item) {
               return { ...item, items: updateFileContent(item.items) };
