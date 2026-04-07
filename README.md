@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔐 **OAuth Login with NextAuth** – Supports Google & GitHub login.
 - 🎨 **Modern UI** – Built with TailwindCSS & ShadCN UI.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Layer         | Technology                                   |
 |---------------|----------------------------------------------|
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. Clone the Repo
 
@@ -95,7 +95,7 @@ Visit `http://localhost:3000` in your browser.
 
 ---
 
-## 🎯 Keyboard Shortcuts
+## Keyboard Shortcuts
 
 * `Ctrl + Space` or `Double Enter`: Trigger AI suggestions
 * `Tab`: Accept AI suggestion
@@ -107,13 +107,13 @@ Visit `http://localhost:3000` in your browser.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 * [Monaco Editor](https://microsoft.github.io/monaco-editor/)
 * [Ollama](https://ollama.com/) – for offline LLMs
