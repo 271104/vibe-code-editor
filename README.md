@@ -1,4 +1,10 @@
+<img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/1d757739-4628-4965-b7f8-10a8f51eb8b6" />
 <img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/3c78f9d9-6ed8-4bc0-9de8-c2ca1c56dfb8" /># 🧠 Vibecode Editor – AI-Powered Web IDE
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/1206f1a5-0fe6-4101-a554-29d90a13c710" />
+<img width="1918" height="981" alt="image" src="https://github.com/user-attachments/assets/b258f2e6-a1d4-412e-b104-6e7c7374ca2d" />
+<img width="1915" height="990" alt="image" src="https://github.com/user-attachments/assets/b797a047-722a-4a1c-85e7-b3b4d4037379" />
+
+
 
 ![Vibecode Editor Thumbnail](public/vibe-code-editor-thumbnaail.svg)
 
