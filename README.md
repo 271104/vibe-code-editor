@@ -35,7 +35,7 @@
 | AI Suggestion | Ollama (LLMs running locally via Docker)     |
 | Runtime       | WebContainers                                |
 | Terminal      | xterm.js                                     |
-| Database      | MongoDB (via DATABASE_URL)                   |
+| Database      | Prisma + MongoDB (via DATABASE_URL)                   |
 
 ---
 
