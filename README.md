@@ -1,4 +1,4 @@
-# 🧠 Vibecode Editor – AI-Powered Web IDE
+<img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/3c78f9d9-6ed8-4bc0-9de8-c2ca1c56dfb8" /># 🧠 Vibecode Editor – AI-Powered Web IDE
 
 ![Vibecode Editor Thumbnail](public/vibe-code-editor-thumbnaail.svg)
 
